@@ -1,0 +1,2 @@
+patient_id,n_contacts,n_bipolars,n_shafts,n_doctor_burned_bipolars,n_touched_projected_regions,top_doctor_region,top_doctor_region_burned_count,coordinate_space,has_patient_surface_model,surface_model_note
+sample01,6,5,1,2,2,Synthetic temporal L,1,MNI and synthetic SCS,True,Synthetic sample surface for installation testing only.

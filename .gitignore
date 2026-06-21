@@ -1,0 +1,42 @@
+# Python/runtime noise
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv*/
+
+# Build outputs
+build/
+dist/
+*.spec.bak
+*.log
+tmp/
+outputs/
+
+# Local real data and clinical files
+data/
+viewer_data/
+real_data/
+brainstorm_db/
+raw_data/
+brainstorm_electrode_region_labels/
+*.edf
+*.mat
+*.nii
+*.nii.gz
+*.dcm
+*.xlsx
+*.csv
+*.tsv
+
+# Keep curated synthetic sample data
+!sample_data/
+!sample_data/**
+!sample_data/**/*.csv
+!sample_data/**/*.json
+!sample_data/**/*.npz
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini

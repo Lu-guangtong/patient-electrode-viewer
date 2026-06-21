@@ -1,0 +1,2 @@
+patient_id,contacts,contacts_missing_mni,bipolars,bipolars_missing_mni,doctor_raw_rows,doctor_detail_rows,doctor_matched_rows,viewer_burned_bipolars,doctor_unmatched_rows,max_abs_delta_master_vs_brainstorm_mni,has_patient_surface_model,n_projected_regions,n_doctor_touched_regions,surface_found,n_vertices,n_faces,surface_path,high_surface_found,n_high_vertices,n_high_faces,n_high_source_vertices,n_high_source_faces,high_surface_path
+sample01,6,0,5,0,2,2,2,2,0,0.0,True,2,2,True,648,1224,synthetic,True,648,1224,648,1224,synthetic

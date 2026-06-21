@@ -1,0 +1,7 @@
+patient_id,contact_name,contact_norm,shaft,contact_index,mni_x,mni_y,mni_z,scs_x,scs_y,scs_z,world_x,world_y,world_z,dk_region,dk_region_prob,source_file,x,y,z,coordinate_space,is_coordinate_valid
+sample01,A1,A1,A,1,-10.5,-11.5,9.5,-12.0,-9.5,9.0,-12.0,-9.5,9.0,Synthetic temporal L,1.0,synthetic,-10.5,-11.5,9.5,MNI and SCS,True
+sample01,A2,A2,A,2,-4.5,-9.0,10.5,-6.0,-7.0,10.0,-6.0,-7.0,10.0,Synthetic temporal L,1.0,synthetic,-4.5,-9.0,10.5,MNI and SCS,True
+sample01,A3,A3,A,3,1.5,-6.5,11.5,0.0,-4.5,11.0,0.0,-4.5,11.0,Synthetic temporal L,1.0,synthetic,1.5,-6.5,11.5,MNI and SCS,True
+sample01,A4,A4,A,4,7.5,-4.0,12.5,6.0,-2.0,12.0,6.0,-2.0,12.0,Synthetic temporal R,1.0,synthetic,7.5,-4.0,12.5,MNI and SCS,True
+sample01,A5,A5,A,5,13.5,-1.5,13.5,12.0,0.5,13.0,12.0,0.5,13.0,Synthetic temporal R,1.0,synthetic,13.5,-1.5,13.5,MNI and SCS,True
+sample01,A6,A6,A,6,19.5,1.0,14.5,18.0,3.0,14.0,18.0,3.0,14.0,Synthetic temporal R,1.0,synthetic,19.5,1.0,14.5,MNI and SCS,True
