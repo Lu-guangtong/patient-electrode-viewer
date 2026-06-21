@@ -28,7 +28,7 @@ class ViewerDataValidationTests(unittest.TestCase):
 
             result = self.viewer.validate_data_dir(data_dir)
 
-            self.assertEqual(result, data_dir)
+            self.assertTrue(result.samefile(data_dir))
 
     def test_missing_required_file_reports_all_missing_files(self):
         with tempfile.TemporaryDirectory() as tmp:
