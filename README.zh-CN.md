@@ -6,7 +6,7 @@
 
 ## 下载
 
-普通用户可以从 GitHub Releases 下载最新 Windows 安装包：
+用户可以从 GitHub Releases 下载最新 Windows 安装包：
 
 ```text
 PatientElectrodeViewer-Setup-x.y.z.exe
@@ -16,7 +16,7 @@ PatientElectrodeViewer-Setup-x.y.z.exe
 
 ## 数据政策
 
-不要把受保护健康信息、可识别个体解剖、原始临床导出、Brainstorm 数据库、电极坐标表、手术标签或坏导表上传到公开仓库。
+本查看器不包含真实的个体解剖、原始临床导出、Brainstorm 数据库、电极坐标表、手术标签或坏导表。
 
 用户需要自行准备去标识化数据，并确认其数据使用符合所在机构、伦理/IRB、隐私和数据使用规定。
 
