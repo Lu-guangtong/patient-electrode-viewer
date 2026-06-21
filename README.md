@@ -1,5 +1,7 @@
 # Patient Electrode Desktop Viewer
 
+[中文说明](README.zh-CN.md)
+
 A Windows desktop 3D viewer for patient-level SEEG contacts, bipolar channels, anatomical regions, synthetic sample data, and optional local clinical annotations.
 
 The public repository contains source code and packaging files only. It does not include real patient data.
